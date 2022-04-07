@@ -1,0 +1,324 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Tests/Tests.csproj": {}
+  },
+  "projects": {
+    "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/App/App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/App/App.csproj",
+        "projectName": "App",
+        "projectPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/App/App.csproj",
+        "packagesPath": "/home/jailex/.nuget/packages/",
+        "outputPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/App/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jailex/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Modelos/Modelos.csproj": {
+                "projectPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Modelos/Modelos.csproj"
+              },
+              "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/dataMgr/dataMgr.csproj": {
+                "projectPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/dataMgr/dataMgr.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Consola/Consola.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Consola/Consola.csproj",
+        "projectName": "Consola",
+        "projectPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Consola/Consola.csproj",
+        "packagesPath": "/home/jailex/.nuget/packages/",
+        "outputPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Consola/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jailex/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/App/App.csproj": {
+                "projectPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/App/App.csproj"
+              },
+              "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Modelos/Modelos.csproj": {
+                "projectPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Modelos/Modelos.csproj"
+              },
+              "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/dataMgr/dataMgr.csproj": {
+                "projectPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/dataMgr/dataMgr.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Modelos/Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Modelos/Modelos.csproj",
+        "projectName": "Modelos",
+        "projectPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Modelos/Modelos.csproj",
+        "packagesPath": "/home/jailex/.nuget/packages/",
+        "outputPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Modelos/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jailex/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Tests/Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Tests/Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Tests/Tests.csproj",
+        "packagesPath": "/home/jailex/.nuget/packages/",
+        "outputPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jailex/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/App/App.csproj": {
+                "projectPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/App/App.csproj"
+              },
+              "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Consola/Consola.csproj": {
+                "projectPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Consola/Consola.csproj"
+              },
+              "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Modelos/Modelos.csproj": {
+                "projectPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Modelos/Modelos.csproj"
+              },
+              "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/dataMgr/dataMgr.csproj": {
+                "projectPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/dataMgr/dataMgr.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/dataMgr/dataMgr.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/dataMgr/dataMgr.csproj",
+        "projectName": "dataMgr",
+        "projectPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/dataMgr/dataMgr.csproj",
+        "packagesPath": "/home/jailex/.nuget/packages/",
+        "outputPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/dataMgr/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jailex/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Modelos/Modelos.csproj": {
+                "projectPath": "/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Modelos/Modelos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

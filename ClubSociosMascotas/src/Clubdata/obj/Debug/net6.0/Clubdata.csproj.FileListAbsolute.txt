@@ -1,0 +1,15 @@
+/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Clubdata/bin/Debug/net6.0/Clubdata.deps.json
+/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Clubdata/bin/Debug/net6.0/Clubdata.dll
+/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Clubdata/bin/Debug/net6.0/Clubdata.pdb
+/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Clubdata/bin/Debug/net6.0/Modelos.dll
+/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Clubdata/bin/Debug/net6.0/Modelos.pdb
+/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Clubdata/obj/Debug/net6.0/Clubdata.csproj.AssemblyReference.cache
+/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Clubdata/obj/Debug/net6.0/Clubdata.GeneratedMSBuildEditorConfig.editorconfig
+/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Clubdata/obj/Debug/net6.0/Clubdata.AssemblyInfoInputs.cache
+/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Clubdata/obj/Debug/net6.0/Clubdata.AssemblyInfo.cs
+/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Clubdata/obj/Debug/net6.0/Clubdata.csproj.CoreCompileInputs.cache
+/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Clubdata/obj/Debug/net6.0/Clubdata.csproj.CopyComplete
+/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Clubdata/obj/Debug/net6.0/Clubdata.dll
+/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Clubdata/obj/Debug/net6.0/refint/Clubdata.dll
+/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Clubdata/obj/Debug/net6.0/Clubdata.pdb
+/home/jailex/Documentos/proyect/sss/ClubSociosMascotas/src/Clubdata/obj/Debug/net6.0/ref/Clubdata.dll
